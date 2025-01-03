@@ -1,23 +1,14 @@
 module.exports = [
     {
-        usertoken: 'usertoken1',
+        usertoken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzc3MDQ2MmMzMWVhZjNkODUzN2Q2MjgiLCJwdWJsaWNBZGRyZXNzIjoiOHpaVlQ3cXBNZFJwOU56aU16Z0VqVVlCU2NQWXZqMjRkQkFmVVNIMjNHZVoiLCJ3YWxsZXRUeXBlIjoic29sYW5hIiwiaWF0IjoxNzM1ODUzMTU1LCJleHAiOjE3Njc0MTA3NTV9.HPUkjpWWxrBX693lLJ36h0CiH_g3vYcVWUcFdRsGGIE',
         nodes: [
-            { nodeId: 'nodeid1', hardwareId: 'hardwareid1', proxy: 'proxy1' },
-            { nodeId: 'nodeid2', hardwareId: 'hardwareid2', proxy: 'proxy2' },
-            { nodeId: 'nodeid3', hardwareId: 'hardwareid3', proxy: 'proxy3' },
-            { nodeId: 'nodeid4', hardwareId: 'hardwareid4', proxy: 'proxy4' },
-            { nodeId: 'nodeid5', hardwareId: 'hardwareid5', proxy: 'proxy5' }
+            { nodeId: '12D3KooWR7vhmwdQoPsKRnR1eFyy2GTMXVdqp8wmDjJjy1AfZQfb', hardwareId: '984adeaeb7e29e8483258a5061e63d860f02f4fe730ace6ed5ca3e7e094d8faf', proxy: 'proxy1' },
+            { nodeId: '12D3KooWR7vhmwdQoPsKRnR1eFyy2GTMXVdqp8wmDjJjy1AfZQfb', hardwareId: '984adeaeb7e29e8483258a5061e63d860f02f4fe730ace6ed5ca3e7e094d8faf', proxy: 'proxy2' },
+            { nodeId: '12D3KooWR7vhmwdQoPsKRnR1eFyy2GTMXVdqp8wmDjJjy1AfZQfb', hardwareId: '984adeaeb7e29e8483258a5061e63d860f02f4fe730ace6ed5ca3e7e094d8faf', proxy: 'proxy3' },
+            { nodeId: '12D3KooWR7vhmwdQoPsKRnR1eFyy2GTMXVdqp8wmDjJjy1AfZQfb', hardwareId: '984adeaeb7e29e8483258a5061e63d860f02f4fe730ace6ed5ca3e7e094d8faf', proxy: 'proxy4' },
+            { nodeId: '12D3KooWR7vhmwdQoPsKRnR1eFyy2GTMXVdqp8wmDjJjy1AfZQfb', hardwareId: '984adeaeb7e29e8483258a5061e63d860f02f4fe730ace6ed5ca3e7e094d8faf', proxy: 'proxy5' }
         ]
     },
-    {
-        usertoken: 'usertoken2',
-        nodes: [
-            { nodeId: 'nodeid6', hardwareId: 'hardwareid6', proxy: 'proxy6' },
-            { nodeId: 'nodeid7', hardwareId: 'hardwareid7', proxy: 'proxy7' },
-            { nodeId: 'nodeid8', hardwareId: 'hardwareid8', proxy: 'proxy8' },
-            { nodeId: 'nodeid9', hardwareId: 'hardwareid9', proxy: 'proxy9' },
-            { nodeId: 'nodeid10', hardwareId: 'hardwareid10', proxy: 'proxy10' }
-        ]
-    }
+   
     // Add more usertokens as needed
 ];
